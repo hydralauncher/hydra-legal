@@ -31,6 +31,10 @@ export default defineConfig({
                 text: "Subscription Terms",
                 link: "/subscription-terms",
               },
+              {
+                text: "Cloud Gift Terms",
+                link: "/cloud-gift-terms",
+              },
             ],
           },
         ],
@@ -62,6 +66,10 @@ export default defineConfig({
               {
                 text: "Condiçoẽs Contratuais",
                 link: "/pt-BR/subscription-terms",
+              },
+              {
+                text: "Termos de Presente do Hydra Cloud",
+                link: "/pt-BR/cloud-gift-terms",
               },
             ],
           },

@@ -18,6 +18,7 @@ A Hydra Launcher oferece o seguinte serviço mediante assinatura:
 
 - **Cloud Saving**: Armazenamento automático dos arquivos de jogo em pastas mapeadas pelo sistema. O conteúdo das pastas será armazenado em nuvem, sem distinção ou filtragem de outros arquivos que não sejam diretamente relacionados ao jogo.
 - **Conquistas no Perfil**: Informações sobre conquistas desbloqueadas nos jogos que serão salvas e exibidas no perfil público do usuário, podendo ficar visíveis para outros usuários.
+- **Downloads pelo VikingFile**: Resolução de links compatíveis do VikingFile para facilitar downloads pelo Hydra Launcher. Esta funcionalidade está sujeita a limitações de uso justo, técnicas e de disponibilidade de serviços de terceiros. A Hydra Launcher não controla o VikingFile nem garante que qualquer arquivo ou link de download específico permanecerá disponível.
 
 ## 3. Vigência e Renovação
 
@@ -29,9 +30,7 @@ O presente contrato tem vigência mensal ou trimestral, sendo renovado automatic
 
 4.2. O cancelamento não dá lugar ao direito de reembolso de nenhum valor que já tenha sido pago, e apenas passa a produzir efeitos em relação ao próximo ciclo de faturação.
 
-4.3. Em caso de cancelamento, os arquivos de backup serão mantidos na nuvem por 7 dias após o término da assinatura. Após esse período, todos os arquivos de save do usuário serão permanentemente excluídos.
-
-4.4. As informações referentes às conquistas permanecerão salvas no banco de dados, mas não serão atualizadas nem exibidas para outros usuários, podendo vir a ser recuperadas caso o usuário venha a realizar uma nova assinatura no futuro.
+4.3. As informações referentes às conquistas permanecerão salvas no banco de dados, mas não serão atualizadas nem exibidas para outros usuários, podendo vir a ser recuperadas caso o usuário venha a realizar uma nova assinatura no futuro.
 
 ## 5. Obrigações das Partes
 

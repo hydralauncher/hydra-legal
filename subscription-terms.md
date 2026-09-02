@@ -18,6 +18,7 @@ Hydra Launcher offers the following subscription-based service:
 
 - **Cloud Saving**: Automatic storage of game files in system-mapped folders. The contents of these folders will be stored in the cloud without distinction or filtering of non-game-related files.
 - **Profile Achievements**: Information about unlocked game achievements will be saved and displayed on the user’s public profile, visible to other users.
+- **VikingFile Downloads**: Resolution of supported VikingFile links to facilitate downloads through Hydra Launcher. This feature is subject to fair-use, technical, and third-party availability limitations. Hydra Launcher does not control VikingFile or guarantee that any specific file or download link will remain available.
 
 ## 3. Term and Renewal
 
@@ -29,9 +30,7 @@ The contract is valid for a monthly or quarterly period and is automatically ren
 
 4.2. Cancellation does not entitle the user to a refund of any amounts already paid and only takes effect for the next billing cycle.
 
-4.3. Upon cancellation, backup files will remain in the cloud for 7 days after the subscription ends. After this period, all the user’s save files will be permanently deleted.
-
-4.4. Achievement information will remain stored in the database but will not be updated or displayed to other users. This information may be recovered if the user subscribes again in the future.
+4.3. Achievement information will remain stored in the database but will not be updated or displayed to other users. This information may be recovered if the user subscribes again in the future.
 
 ## 5. Obligations of the Parties
 
